@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="olympics.Add_Records" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARBAQgD8J6gsgDCJ/hiYiACCkCWEoEcGgCFCABieBC4=</HashCode>
+      <FileName>Add Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.All_Events" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QGBAAmAASCCAAABAAKCIAAASAAIFAysACKgACAiCBGg=</HashCode>
+      <FileName>All Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Athletes" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KACEAgAASiAQoABACACRIAAGAGAgKAIiCoQCABIAAgM=</HashCode>
+      <FileName>Athletes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.BusinessLayer" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgiLwaCABIAokIAAJTCTACDChgAAAigAQApAGAQEA=</HashCode>
+      <FileName>BusinessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Change_Records" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAwgH4AyEAgBCI/wGACAGCsAQEIAcGAAjAABiADCw=</HashCode>
+      <FileName>Change Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Countries" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAIBAAAICAAAACAAAAAAACACACAAACAAA=</HashCode>
+      <FileName>Countries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Country" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAEGAAAAAAAAAAAAAAABAAAAAQAAQAAAEEAAAACAA=</HashCode>
+      <FileName>Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Day_by_Day_Events" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAAACAAAgCAAAAAAMAAAQAAAAAAAA=</HashCode>
+      <FileName>Day by Day Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Discipline" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAAAAAAAAAAAAAAABCAAAACBAQAAgAEEAAIAAA=</HashCode>
+      <FileName>Discipline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Event" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAICAAgDgAgQAhAAGEAACAAQAAkABAIBAQCI=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Games" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAAAACAAAAAAAQCAAAACAAAAgQUAAAQAAAAAAAQ=</HashCode>
+      <FileName>Games.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Medal" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAICACAACAnAAAAEAIAAABAAAAAI=</HashCode>
+      <FileName>Medal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.OlympicGames" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAIJAAAACQAAAAAAAAABAAAAQAAAAAAAgAAAA=</HashCode>
+      <FileName>OlympicGames.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.OlympicsGamesAdmin" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAgCgAEAAAAACAABFKAgKYKAABAAAAAhEAAAA=</HashCode>
+      <FileName>Olympics Games.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.OlympicsGamesUser" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAQd0CFKoogAQwoJCFcAQKAICEICUCglQAYADACCA=</HashCode>
+      <FileName>Olympics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Participant" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABACAgAACAAAAAgBAAECAQgAQAAIBAAAAQBAA=</HashCode>
+      <FileName>Participant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Placing" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEgAAACEQAAAAABAAAAASgAUQAoAAAAAAAAA=</HashCode>
+      <FileName>Placing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Remove_Records" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgDwBzAAgBiY/gCACADCsAAEIBMGECBAABiEBCw=</HashCode>
+      <FileName>Remove Records.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Start_Page" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAhAAQACAAAhAACACgCRAHAAAoQAQBgQCggAhAACA=</HashCode>
+      <FileName>Start Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQABAAgAACAAAAAJEAAAIQAEAAAAAEBAAAQAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="olympics.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

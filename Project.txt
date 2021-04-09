@@ -1,0 +1,71 @@
+SuperSport website prime example
+youtube has olympic videos
+
+************************************************************************************
+http://www.london2012.com/schedule-and-results/full-schedule.html
+randomised hyperlink on the man page that shows you the highlights of the olympics
+Olympic sponsors
+hyperlink to facebook and twitter (london olympic page)
+random pictures
+photo gallery (ask about copy right)
+add pictures at the top of every (most) forms
+use of splitter to aid with presentation(aesthetics)
+dgv must have country flags
+loggin in form.
+change every occurrence of participant to athlete
+as the image theme set the olympic locations etc
+can use the mounth calendar and show what events are on that day
+can use splitContainer to display famous athlete with country flag
+have backround images for the dgv
+Inserting images to a db
+doc. deleted records are not persistent
+WORKING WITH AUTONUMBER HOW DO YOU DISPLAY IT IN TEXTBOXES
+
+Locking controls, populating db and documentation and Medals table
+************************************************************************************
+form theme and icons
+help provider.
+have a tray icon that directs you to the olympic web site
+
+put country id in the Event table
+adding aesthetics to the project
+
+Problem
+============
+need forms to communicate (previous form need to know info about current from)
+country flags
+Change font
+
+Question 1
+==========
+when form first loads can ask the user with olympics the app must cater for
+
+if it is the 2012 olympics then the colour scheme is red(buttons), blue and white else generic colours
+What are components and user controls
+
+delete the table team participant and add fields to teamEvent
+
+data binding the data grid views
+
+N.B trying to eliminate the teamparticipant table.
+
+date time picker need them to start at a specific point and end at a specified point
+tab control 
+Contextmenu strip
+adding aesthetics to the form
+
+add context menu for the forms
+
+download pro and have a rudimentary site for the action with a button that doesn't work
+
+how do you convert datetimepicker (pass as double)
+
+placing insert a vertical up and down arrow for the positions
+getting all controls
+
+blue
+royal blue
+orange red
+
+Events menu strip (done)
+Athlete menu strip (done)

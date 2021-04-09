@@ -1,0 +1,92 @@
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\bin\Debug\olympics.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\bin\Debug\olympics.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Olympics.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Properties.Resources.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Add_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Change_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Remove_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Countries.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Project\Olympics\olympics\obj\x86\Debug\olympics.Games.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\olympics.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\olympics.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Add_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Change_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Countries.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Games.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Properties.Resources.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Remove_Records.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.All_Events.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Medal.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Start_Page.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesAdmin.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesUser.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Athletes.resources
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.Day_by_Day_Events.resources
+C:\Users\Lu\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\bin\Debug\olympics.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\bin\Debug\olympics.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Add_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.All_Events.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Athletes.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Change_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Countries.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Day_by_Day_Events.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Games.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Medal.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesAdmin.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesUser.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Properties.Resources.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Remove_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.Start_Page.resources
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Olympics\olympics\obj\x86\Debug\olympics.csproj.GenerateResource.Cache
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\bin\Debug\olympics.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\bin\Debug\olympics.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Add_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.All_Events.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Athletes.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Change_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Countries.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Day_by_Day_Events.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Games.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Medal.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesAdmin.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesUser.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Properties.Resources.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Remove_Records.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Start_Page.resources
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.csproj.GenerateResource.Cache
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\bin\Debug\olympics.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\bin\Debug\olympics.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Add_Records.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.All_Events.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Athletes.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Change_Records.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Countries.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Day_by_Day_Events.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Games.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Medal.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesAdmin.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.OlympicsGamesUser.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Properties.Resources.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Remove_Records.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.Start_Page.resources
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Olympics\olympics\obj\x86\Debug\olympics.csproj.GenerateResource.Cache

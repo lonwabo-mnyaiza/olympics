@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B2A8B74D-90E0-465E-B39F-5B96FB6C6A13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>olympics</RootNamespace>
+    <AssemblyName>olympics</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Data.Designer.cs">
+      <DependentUpon>Add Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All Events.Designer.cs">
+      <DependentUpon>All Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Athletes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Athletes.Designer.cs">
+      <DependentUpon>Athletes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessLayer.cs" />
+    <Compile Include="Change Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change Data.Designer.cs">
+      <DependentUpon>Change Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Countries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Countries.Designer.cs">
+      <DependentUpon>Countries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Country.cs" />
+    <Compile Include="Day by Day Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Day by Day Events.Designer.cs">
+      <DependentUpon>Day by Day Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discipline.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="Games.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Games.Designer.cs">
+      <DependentUpon>Games.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medal.Designer.cs">
+      <DependentUpon>Medal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OlympicGames.cs" />
+    <Compile Include="Olympics Games.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Olympics Games.Designer.cs">
+      <DependentUpon>Olympics Games.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Olympics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Olympics.Designer.cs">
+      <DependentUpon>Olympics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Participant.cs" />
+    <Compile Include="Placing.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remove Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remove Records.Designer.cs">
+      <DependentUpon>Remove Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start Page.Designer.cs">
+      <DependentUpon>Start Page.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Data.resx">
+      <DependentUpon>Add Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All Events.resx">
+      <DependentUpon>All Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Athletes.resx">
+      <DependentUpon>Athletes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change Data.resx">
+      <DependentUpon>Change Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Countries.resx">
+      <DependentUpon>Countries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Day by Day Events.resx">
+      <DependentUpon>Day by Day Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Games.resx">
+      <DependentUpon>Games.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medal.resx">
+      <DependentUpon>Medal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Olympics Games.resx">
+      <DependentUpon>Olympics Games.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Olympics.resx">
+      <DependentUpon>Olympics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Remove Records.resx">
+      <DependentUpon>Remove Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start Page.resx">
+      <DependentUpon>Start Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Olympics.ico" />
+    <None Include="bin\Debug\Images\rings.jpg" />
+    <None Include="bin\Debug\Images\Logo.jpg" />
+    <None Include="bin\Debug\Images\Facebook.jpg" />
+    <None Include="bin\Debug\Images\Facebook2.jpg" />
+    <None Include="bin\Debug\Images\Facebook3.jpg" />
+    <None Include="bin\Debug\Images\Facebook4.jpg" />
+    <None Include="bin\Debug\Images\Facebook3mod.jpg" />
+    <None Include="bin\Debug\Images\twitter.jpg" />
+    <None Include="bin\Debug\Images\twitter2.jpg" />
+    <None Include="bin\Debug\Images\1.jpg" />
+    <None Include="bin\Debug\Images\2.jpg" />
+    <None Include="bin\Debug\Images\3.jpg" />
+    <None Include="bin\Debug\Images\HDrings.jpg" />
+    <None Include="bin\Debug\Images\tcp.jpg" />
+    <Content Include="Icons.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\Credits\bin\Debug\Credits.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\Credits\bin\Debug\Credits.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\Credits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\Credits\obj\x86\Debug\Credits.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\Credits\obj\x86\Debug\Credits.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\obj\x86\Debug\Credits.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\obj\x86\Debug\Credits.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\bin\Debug\Credits.exe
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\bin\Debug\Credits.pdb
+C:\Users\lonwabo\Documents\#School My Modules\#IT 2nd year\Second Semester\Software Development ONT2000\Olympics\olympics\bin\Debug\Credits\obj\x86\Debug\ResolveAssemblyReference.cache
